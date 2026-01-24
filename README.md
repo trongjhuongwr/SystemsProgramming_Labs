@@ -11,13 +11,13 @@ Repository này lưu trữ các bài tập thực hành của môn học Lập t
 
 ```
 SystemsProgramming_Exercises/
-├── SystemsProgramming_Exercises.sln   
+├── SystemsProgramming_Labs.sln   
 ├── README.md                          
 │
-├── Tutorial_01/                       # Buổi 1
-│   ├── Program.cs                     # Bài tập code
-│   ├── Tutorial_01.pdf                # Bài tập lý thuyết
-│   └── Tutorial_01.csproj
+├── Lab01/                        # Buổi 1
+│   ├── Program.cs                # Bài tập code
+│   ├── Tutorial_01.pdf           # Bài tập lý thuyết
+│   └── Lab01.csproj
 │
 └── ... (Các bài tập còn lại)
 ```
@@ -26,8 +26,8 @@ SystemsProgramming_Exercises/
 
 | STT | Bài tập | Nội dung chính | Trạng thái |
 | :---: | :--- | :--- | :---: |
-| 01 | [Tutorial 01](./Tutorial_01) | Tổng quan, System Info, .NET Runtime | Hoàn thành |
-| 02 | [Tutorial 02](./Tutorial_02) | Tối ưu bộ nhớ,cơ chế JIT và tương tác hệ thống cấp thấp | Hoàn thành |
+| 01 | [Tutorial 01](./Lab01) | Tổng quan, System Info, .NET Runtime | Hoàn thành |
+| 02 | [Tutorial 02](./Lab02) | Tối ưu bộ nhớ,cơ chế JIT và tương tác hệ thống cấp thấp | Hoàn thành |
 | 03 | Tutorial 03 | (Đang cập nhật...) | Chưa thực hiện |
 
 ## Hướng dẫn chạy
