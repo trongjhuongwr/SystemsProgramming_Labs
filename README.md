@@ -28,7 +28,8 @@ SystemsProgramming_Exercises/
 | :---: | :--- | :--- | :---: |
 | 01 | [Tutorial 01](./Lab01) | Tổng quan, System Info, .NET Runtime | Hoàn thành |
 | 02 | [Tutorial 02](./Lab02) | Tối ưu bộ nhớ,cơ chế JIT và tương tác hệ thống cấp thấp | Hoàn thành |
-| 03 | Tutorial 03 | (Đang cập nhật...) | Chưa thực hiện |
+| 03 | [Tutorial 03](./Lab03) | Quản lý Bộ nhớ và Luồng | Hoàn thành |
+| 04 | Tutorial 04 | (Đang cập nhật...) | Chưa thực hiện |
 
 ## Hướng dẫn chạy
 
